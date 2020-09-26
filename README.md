@@ -3,5 +3,3 @@ Emails.csv : - Here CSV file Contain List Of Emails
 Credentials.txt : -Contain information about Yoour Email
 1.Your Email Address
 2.Your Email Password
-CSV module :- As it is lightweight than Pandas.
-© 2020 GitHub, Inc.
