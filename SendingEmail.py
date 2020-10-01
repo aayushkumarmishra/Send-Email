@@ -1,7 +1,7 @@
 import smtplib
 import csv
 
-
+#Code_Start
 def get_credentials(filepath):
     with open("credentials.txt", "r") as f:
         Email_Address = f.readline()
